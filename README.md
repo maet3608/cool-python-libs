@@ -3,7 +3,7 @@
 A link collection of cool Python libraries (heavily biased toward my interests :)
 
 
-# IDEs
+## IDEs
 
 [PyCharm](https://www.jetbrains.com/pycharm/): Currently my favorite.
 
@@ -11,18 +11,22 @@ A link collection of cool Python libraries (heavily biased toward my interests :
 Pyhton notebook based on Jupyter Notebooks. Also a favorite.
 
 
-# Utils
+## Utils
 
 [py-spy](https://github.com/benfred/py-spy): A sampling profiler for Python programs.
 
 
-# User Interface
+## User Interface
 
 [Gooey](https://github.com/chriskiehl/Gooey): Turns Python command line program into a 
 GUI applications
 
+[Kivy](https://kivy.org): Cross platform (Android, Windows, ...) libary for GUI
+creation. Tricky to install but fairly easy to use and documentation okay.
+Great looking, fast UIs with touch support.
 
-# Command Line Interface
+
+## Command Line Interface
 
 [click](http://click.pocoo.org/5/): Composable and easy to create command line interfaces
 (similar to Argparse but better ;).
@@ -31,7 +35,7 @@ GUI applications
 GUI applications
 
 
-# Visualization
+## Visualization
 
 [matplotlib](https://matplotlib.org/): 2D plotting library. A must have.
 
@@ -39,14 +43,14 @@ GUI applications
 based on matplotlib that creates nicer graphs more easily.
 
 
-# Web
+## Web
 
 [requests](https://github.com/requests/requests): Simplifies HTTP requests.
 
 [hug](https://github.com/timothycrosley/hug): Simplifies creation of HTTP/REST APIs.
 
 
-# Downloading
+## Downloading
 
 [youtube-dl](https://github.com/rg3/youtube-dl): Command-line program to download videos 
 from YouTube.com and other video sites.
@@ -58,19 +62,19 @@ media contents (videos, audios, images) from the Web
 Python script to download images from Google Images.
 
 
-# Images
+## Images
 
 [opencv-python](https://pypi.org/project/opencv-python/): Computer Vision Library using OpenCV
 with Python interface.
 
 
-# Music
+## Music
 
 [mopidy](https://github.com/mopidy/mopidy): Extensible music server that plays music from 
 local disk, Spotify, SoundCloud, Google Play Music, and more.
 
 
-# Scientific Computing
+## Scientific Computing
 
 [NumPy](http://www.numpy.org/): Fundamental package for scientific computing with Python.
 A must have.
@@ -83,7 +87,7 @@ NumPy, SymPy, Matplotlib and pandas.
 [Pandas](https://pandas.pydata.org/): Powerful data analysis library.
 
 
-# Machine/Deep Learning
+## Machine/Deep Learning
 
 [scikit-learn](https://github.com/scikit-learn/scikit-learn): Great Machine Learning library
 with excellent documentation. Must have.
@@ -92,7 +96,5 @@ with excellent documentation. Must have.
 Tensorflow and Theano.
 
 [Pytorch](https://github.com/pytorch/pytorch): Deep Learning library.
-
-
 
 
