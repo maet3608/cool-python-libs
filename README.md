@@ -45,6 +45,8 @@ based on matplotlib that creates nicer graphs more easily.
 
 ## Web
 
+[flask](http://flask.pocoo.org/): The micro web framework! Easy to use. 
+
 [requests](https://github.com/requests/requests): Simplifies HTTP requests.
 
 [hug](https://github.com/timothycrosley/hug): Simplifies creation of HTTP/REST APIs.
