@@ -16,6 +16,11 @@ Pyhton notebook based on Jupyter Notebooks. Also a favorite.
 [py-spy](https://github.com/benfred/py-spy): A sampling profiler for Python programs.
 
 
+## Functional Programming
+
+[toolz](https://github.com/pytoolz/toolz/): A functional standard library for Python.
+
+
 ## User Interface
 
 [Gooey](https://github.com/chriskiehl/Gooey): Turns Python command line program into a 
