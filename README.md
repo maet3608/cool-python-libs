@@ -104,4 +104,17 @@ Tensorflow and Theano.
 
 [Pytorch](https://github.com/pytorch/pytorch): Deep Learning library.
 
+[DeepSpeech](https://github.com/mozilla/DeepSpeech): Speech-to-Text synthesis.
+
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Pose detection of persons
+in images or videos.
+
+[Mobile Deep Learning](https://github.com/baidu/mobile-deep-learning): Run Deep Learning models 
+on mobile devices such as Android and IOS.
+
+[Seq2seq](https://github.com/google/seq2seq): Learning sequence to sequence mappings, e.g.
+machine translation.
+
+
+
 
