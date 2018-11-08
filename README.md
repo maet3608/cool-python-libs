@@ -115,6 +115,9 @@ on mobile devices such as Android and IOS.
 [Seq2seq](https://github.com/google/seq2seq): Learning sequence to sequence mappings, e.g.
 machine translation.
 
+[Tensprly](https://github.com/tensorly/tensorly): Library for tensor-based machine learning, e.g. 
+tensor factorization.
+
 
 
 
