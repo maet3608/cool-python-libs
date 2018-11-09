@@ -16,6 +16,12 @@ Pyhton notebook based on Jupyter Notebooks. Also a favorite.
 [py-spy](https://github.com/benfred/py-spy): A sampling profiler for Python programs.
 
 
+## Algorithms
+
+[pytudes](https://github.com/norvig/pytudes): A collection of programming exercises
+by Peter Norvig.
+
+
 ## Functional Programming
 
 [toolz](https://github.com/pytoolz/toolz/): A functional standard library for Python.
