@@ -130,4 +130,7 @@ tensor factorization.
 
 [scikit-kge](https://github.com/mnick/scikit-kge): Knowledge Graph Embeddings.
 
+[eli5](https://github.com/TeamHG-Memex/eli5): Debug machine learning classifiers and explain their predictions,
+e.g. permutation analysis of features to estimate importance.
+
 
