@@ -15,6 +15,8 @@ Pyhton notebook based on Jupyter Notebooks. Also a favorite.
 
 [py-spy](https://github.com/benfred/py-spy): A sampling profiler for Python programs.
 
+[tqdm](https://pypi.org/project/tqdm/): Simply wrap iterators to print progress bars. 
+
 
 ## Algorithms
 
