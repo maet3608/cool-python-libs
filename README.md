@@ -133,4 +133,6 @@ tensor factorization.
 [eli5](https://github.com/TeamHG-Memex/eli5): Debug machine learning classifiers and explain their predictions,
 e.g. permutation analysis of features to estimate importance.
 
+[keras-vis](https://github.com/raghakot/keras-vis): Visualization of saliency and class activation maps
+for Keras networks (supports Tensorflow and Theano backend).
 
