@@ -50,15 +50,6 @@ Great looking, fast UIs with touch support.
 [Gooey](https://github.com/chriskiehl/Gooey): Turns Python command line program into a 
 GUI applications
 
-
-## Visualization
-
-[matplotlib](https://matplotlib.org/): 2D plotting library. A must have.
-
-[seaborn](https://seaborn.pydata.org/): Data visualization library 
-based on matplotlib that creates nicer graphs more easily.
-
-
 ## Web
 
 [flask](http://flask.pocoo.org/): The micro web framework! Easy to use. 
@@ -80,10 +71,21 @@ media contents (videos, audios, images) from the Web
 Python script to download images from Google Images.
 
 
+## Visualization
+
+[matplotlib](https://matplotlib.org/): 2D plotting library. A must have.
+
+[seaborn](https://seaborn.pydata.org/): Data visualization library 
+based on matplotlib that creates nicer graphs more easily.
+
+
 ## Images
 
 [opencv-python](https://pypi.org/project/opencv-python/): Computer Vision Library using OpenCV
 with Python interface.
+
+[pillow-simd](https://github.com/uploadcare/pillow-simd): A fast, parallelized version
+of pillow/PIL.
 
 
 ## Music
