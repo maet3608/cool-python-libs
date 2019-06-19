@@ -141,3 +141,6 @@ e.g. permutation analysis of features to estimate importance.
 [keras-vis](https://github.com/raghakot/keras-vis): Visualization of saliency and class activation maps
 for Keras networks (supports Tensorflow and Theano backend).
 
+[differential-privacy-library)](https://github.com/IBM/differential-privacy-library): Library for differential
+privacy within a machine learning framework.
+
