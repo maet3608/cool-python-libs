@@ -106,6 +106,13 @@ NumPy, SymPy, Matplotlib and pandas.
 
 [Pandas](https://pandas.pydata.org/): Powerful data analysis library.
 
+[Cerberus](http://docs.python-cerberus.org/en/stable/index.html): Validation of JSON data against schema.
+
+[csvvalidator](https://github.com/alimanfoo/csvvalidator/blob/master/csvvalidator.py): Validation of CSV files.
+
+[umap](https://umap-learn.readthedocs.io/en/latest/): Dimension reduction and similarity visualisation 
+similar to t-SNE but much faster.
+
 
 ## Machine/Deep Learning
 
