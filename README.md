@@ -13,6 +13,9 @@ Pyhton notebook based on Jupyter Notebooks. Also a favorite.
 
 ## Utils
 
+[python-packaging](https://python-packaging.readthedocs.io/en/latest/index.html): 
+Exmaple and tutorial on how to create an installable Python package.
+
 [py-spy](https://github.com/benfred/py-spy): A sampling profiler for Python programs.
 
 [tqdm](https://pypi.org/project/tqdm/): Simply wrap iterators to print progress bars.
