@@ -81,6 +81,12 @@ Python script to download images from Google Images.
 [seaborn](https://seaborn.pydata.org/): Data visualization library 
 based on matplotlib that creates nicer graphs more easily.
 
+[altair](https://altair-viz.github.io/): Declarative visualization in Jupyterlab notebooks
+and others.
+
+[streamlit](https://streamlit.io/docs/#): Interactive, declarative visualization from
+machine learning in webbrowser.
+
 
 ## Images
 
