@@ -160,3 +160,6 @@ for Keras networks (supports Tensorflow and Theano backend).
 [differential-privacy-library)](https://github.com/IBM/differential-privacy-library): Library for differential
 privacy within a machine learning framework.
 
+[PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN): Github repo with a great collection of GAN
+implementations.
+
