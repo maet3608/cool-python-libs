@@ -16,6 +16,9 @@ Pyhton notebook based on Jupyter Notebooks. Also a favorite.
 [python-packaging](https://python-packaging.readthedocs.io/en/latest/index.html): 
 Exmaple and tutorial on how to create an installable Python package.
 
+[docker](https://sourcery.ai/blog/python-docker/): 
+Exmaple and tutorial on how to create an docker containter for a Python application.
+
 [py-spy](https://github.com/benfred/py-spy): A sampling profiler for Python programs.
 
 [tqdm](https://pypi.org/project/tqdm/): Simply wrap iterators to print progress bars.
