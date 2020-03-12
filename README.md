@@ -26,6 +26,11 @@ Exmaple and tutorial on how to create an docker containter for a Python applicat
 [PyInstaller](https://pyinstaller.readthedocs.io/en/stable/): Installer for Python
 applications and their dependencies.
 
+[logzero](https://logzero.readthedocs.io/en/latest/): A library for logging with
+a nice, simple API.
+
+
+
 
 ## Algorithms
 
