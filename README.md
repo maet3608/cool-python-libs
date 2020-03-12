@@ -31,7 +31,6 @@ a nice, simple API.
 
 
 
-
 ## Algorithms
 
 [pytudes](https://github.com/norvig/pytudes): A collection of programming exercises
@@ -94,6 +93,9 @@ and others.
 
 [streamlit](https://streamlit.io/docs/#): Interactive, declarative visualization from
 machine learning in webbrowser.
+
+[RISE](https://rise.readthedocs.io/en/stable/): A Jupyter notebook extension, that turns 
+a jupyter notebook into an interactive presentation within a browser (based on reveal.js).
 
 
 ## Images
