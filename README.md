@@ -132,6 +132,8 @@ NumPy, SymPy, Matplotlib and pandas.
 [umap](https://umap-learn.readthedocs.io/en/latest/): Dimension reduction and similarity visualisation 
 similar to t-SNE but much faster.
 
+[Zarr](https://zarr.readthedocs.io/en/stable/): Reading and writing of numpy arrays larger than memory.
+
 
 ## Machine/Deep Learning
 
