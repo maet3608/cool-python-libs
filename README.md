@@ -137,6 +137,9 @@ similar to t-SNE but much faster.
 
 ## Machine/Deep Learning
 
+[Machine Learning Toolbox](https://amitness.com/toolbox/): Great collection of Machine Learning Libs
+by Amit Chaudhary.
+
 [scikit-learn](https://github.com/scikit-learn/scikit-learn): Great Machine Learning library
 with excellent documentation. Must have.
 
