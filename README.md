@@ -178,3 +178,5 @@ privacy within a machine learning framework.
 [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN): Github repo with a great collection of GAN
 implementations.
 
+[PyTorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): Lib to simplify the implementation
+of metric learning within the PyTorch framework.
