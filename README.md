@@ -23,11 +23,16 @@ Exmaple and tutorial on how to create an docker containter for a Python applicat
 
 [tqdm](https://pypi.org/project/tqdm/): Simply wrap iterators to print progress bars.
 
+[rich](https://github.com/willmcgugan/rich): Colored text, progress bars, tables and more
+in text/terminal output.
+
 [PyInstaller](https://pyinstaller.readthedocs.io/en/stable/): Installer for Python
 applications and their dependencies.
 
 [logzero](https://logzero.readthedocs.io/en/latest/): A library for logging with
 a nice, simple API.
+
+[scalene](https://github.com/emeryberger/scalene): high-performance CPU and memory profiler for Python.
 
 
 
@@ -58,7 +63,10 @@ Great looking, fast UIs with touch support.
 (similar to Argparse but better ;).
 
 [Gooey](https://github.com/chriskiehl/Gooey): Turns Python command line program into a 
-GUI applications
+GUI applications.
+
+[rich](https://github.com/willmcgugan/rich): Colored text, progress bars, tables and more
+in text/terminal output.
 
 ## Web
 
@@ -135,6 +143,8 @@ similar to t-SNE but much faster.
 [Zarr](https://zarr.readthedocs.io/en/stable/): Reading and writing of numpy arrays larger than memory.
 
 
+
+
 ## Machine/Deep Learning
 
 [Machine Learning Toolbox](https://amitness.com/toolbox/): Great collection of Machine Learning Libs
@@ -148,10 +158,7 @@ Tensorflow and Theano.
 
 [Pytorch](https://github.com/pytorch/pytorch): Deep Learning library.
 
-[DeepSpeech](https://github.com/mozilla/DeepSpeech): Speech-to-Text synthesis.
-
-[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Pose detection of persons
-in images or videos.
+[PyTorchLightning](https://github.com/PyTorchLightning/PyTorch-lightning): Wrapper around Pytorch.
 
 [Mobile Deep Learning](https://github.com/baidu/mobile-deep-learning): Run Deep Learning models 
 on mobile devices such as Android and IOS.
@@ -159,18 +166,12 @@ on mobile devices such as Android and IOS.
 [Seq2seq](https://github.com/google/seq2seq): Learning sequence to sequence mappings, e.g.
 machine translation.
 
-[Tensorly](https://github.com/tensorly/tensorly): Library for tensor-based machine learning, e.g. 
-tensor factorization.
-
 [scikit-tensor](https://github.com/mnick/scikit-tensor): Another library for tensor-based machine learning.
 
 [scikit-kge](https://github.com/mnick/scikit-kge): Knowledge Graph Embeddings.
 
 [eli5](https://github.com/TeamHG-Memex/eli5): Debug machine learning classifiers and explain their predictions,
 e.g. permutation analysis of features to estimate importance.
-
-[keras-vis](https://github.com/raghakot/keras-vis): Visualization of saliency and class activation maps
-for Keras networks (supports Tensorflow and Theano backend).
 
 [differential-privacy-library)](https://github.com/IBM/differential-privacy-library): Library for differential
 privacy within a machine learning framework.
@@ -180,3 +181,34 @@ implementations.
 
 [PyTorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): Lib to simplify the implementation
 of metric learning within the PyTorch framework.
+
+[Tensorly](https://github.com/tensorly/tensorly): Library for tensor-based machine learning, e.g. 
+tensor factorization.
+
+[einops](https://github.com/arogozhnikov/einops): Wrapper around (Pytorch, Tensorflow) to simplify tensor operations.
+
+
+### NLP
+
+[stanza](https://github.com/stanfordnlp/stanza): The Stanford NLP Group's official Python NLP library.
+
+
+### Audio
+
+[DeepSpeech](https://github.com/mozilla/DeepSpeech): Speech-to-Text synthesis.
+
+
+### Vision
+
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose): Pose detection of persons
+in images or videos.
+
+
+### Tools
+
+[keras-vis](https://github.com/raghakot/keras-vis): Visualization of saliency and class activation maps
+for Keras networks (supports Tensorflow and Theano backend).
+
+[Netron](https://github.com/lutzroeder/netron): Netron is a viewer for neural network, deep learning and machine learning models.
+
+[](https://github.com/HarisIqbal88/PlotNeuralNet): Descrie network architecture in Python to create LaTeX image of architecture.
