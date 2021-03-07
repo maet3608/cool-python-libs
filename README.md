@@ -197,6 +197,9 @@ tensor factorization.
 
 [DeepSpeech](https://github.com/mozilla/DeepSpeech): Speech-to-Text synthesis.
 
+[Transformers](https://huggingface.co/transformers/): Natural Language Understanding (NLU) and Natural Language Generation (NLG) 
+Usage example see: https://github.com/sdhilip200/speech-to-text/blob/main/speech.ipynb
+
 
 ### Vision
 
