@@ -56,6 +56,8 @@ GUI applications
 creation. Tricky to install but fairly easy to use and documentation okay.
 Great looking, fast UIs with touch support.
 
+[Gradio](https://www.gradio.app/): Easy-to-use UI for ML models.
+
 
 ## Command Line Interface
 
@@ -214,4 +216,4 @@ for Keras networks (supports Tensorflow and Theano backend).
 
 [Netron](https://github.com/lutzroeder/netron): Netron is a viewer for neural network, deep learning and machine learning models.
 
-[](https://github.com/HarisIqbal88/PlotNeuralNet): Descrie network architecture in Python to create LaTeX image of architecture.
+[PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Describe network architecture in Python to create LaTeX image of architecture.
