@@ -8,7 +8,7 @@ A link collection of cool Python libraries (heavily biased toward my interests :
 [PyCharm](https://www.jetbrains.com/pycharm/): Currently my favorite.
 
 [jupyterlab](https://github.com/jupyterlab/jupyterlab): An interactive
-Pyhton notebook based on Jupyter Notebooks. Also a favorite.
+Python notebook based on Jupyter Notebooks. Also a favorite.
 
 
 ## Utils
@@ -34,6 +34,7 @@ a nice, simple API.
 
 [scalene](https://github.com/emeryberger/scalene): high-performance CPU and memory profiler for Python.
 
+[perfplot](https://pypi.org/project/perfplot/): Easy performance evaluation and result visualization.
 
 
 ## Algorithms
