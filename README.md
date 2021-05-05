@@ -190,6 +190,8 @@ tensor factorization.
 
 [einops](https://github.com/arogozhnikov/einops): Wrapper around (Pytorch, Tensorflow) to simplify tensor operations.
 
+[Pytorch Model Summary ](https://pypi.org/project/pytorch-model-summary): Keras style model.summary() for PyTorch network architectures.
+
 
 ### NLP
 
